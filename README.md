@@ -12,9 +12,6 @@ that our task is simpler than it was when we introduced JavaScript. Instead of
 teaching you how to program, we'll focus on the *differences* between Ruby and
 JavaScript with the goal of utilizing the foundation we've already built.
 
-## Additional Resources
--   [Ruby](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
-
 ## Prerequisites
 
 -   [JavaScript Basics](https://github.com/ga-wdi-boston/js-basics)
@@ -42,6 +39,9 @@ You may wish to refer to [FAQs](https://github.com/ga-wdi-boston/meta/wiki/)
 related to [forking,
 cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone), and [pull
 requests](https://github.com/ga-wdi-boston/meta/wiki/PullRequest).
+
+## Additional Resources
+-   [Ruby](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
 
 ## [License](LICENSE)
 
