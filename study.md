@@ -10,7 +10,7 @@ material. Instead, digest what you've read and repeat it in your own voice.
 
 ## Required Readings
 
--   [Ruby vs JavaScript](http://agentcooper.io/js-ruby-comparison/)
+-   [Ruby vs JavaScript](http://agentcooper.github.io/js-ruby-comparison/)
 
 ## Ruby vs. JavaScript: Compare and Contrast
 
