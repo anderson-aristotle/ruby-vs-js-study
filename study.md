@@ -10,7 +10,7 @@ material. Instead, digest what you've read and repeat it in your own voice.
 
 ## Required Readings
 
--   [Ruby vs JavaScript](http://agentcooper.github.io/js-ruby-comparison/)
+- [Ruby vs JavaScript](http://agentcooper.github.io/js-ruby-comparison/)
 
 ## Ruby vs. JavaScript: Compare and Contrast
 
@@ -69,12 +69,12 @@ look up Ruby's array and string methods, then check the
 [String](https://ruby-doc.org/core-2.3.1/String.html) articles on
 [Ruby-Doc.org](https://ruby-doc.org).
 
-1.  Open `pry` in your terminal and set a variable, `str`, to `"eeffoc"`.
-1.  Reverse the string so that the output reads `"coffee"`.
-1.  Change the string into an array of characters so that the output reads
-    `["c", "o", "f", "f", "e", "e"]`.
-1.  Change your new array back into a string with hyphens in between characters
-    so that your result is `"c-o-f-f-e-e"`.
+1. Open `pry` in your terminal and set a variable, `str`, to `"eeffoc"`.
+1. Reverse the string so that the output reads `"coffee"`.
+1. Change the string into an array of characters so that the output reads
+  `["c", "o", "f", "f", "e", "e"]`.
+1. Change your new array back into a string with hyphens in between characters
+  so that your result is `"c-o-f-f-e-e"`.
 
 ```ruby
 # your answer here
