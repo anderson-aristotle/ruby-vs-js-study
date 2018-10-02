@@ -83,7 +83,8 @@ look up Ruby's array and string methods, then check the
 ## Ruby vs. JavaScript: Classes and Instantiation
 
 While JavaScript uses prototypal
-inheritance (that can be used mimic class-based inheritance), Ruby uses class-based inheritance.  Here is some Ruby code that
+inheritance (that can be used mimic class-based inheritance), Ruby uses
+class-based inheritance.  Here is some Ruby code that
 declares a class called Person that takes an argument, `name`, upon
 instantiation and sets it as an instance variable.  It also has a method named
 `hello` that outputs a string to the console.
